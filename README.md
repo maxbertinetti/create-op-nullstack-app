@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: space-between; padding: 3em; background-color: #222222; margin-bottom: 3rem;">
+<div style="display: flex; justify-content: space-between; padding: 3em; margin-bottom: 3rem;">
 <img src='https://raw.githubusercontent.com/nullstack/nullstack/master/nullstack.png' height='30' alt='Nullstack'/>
 <img src='https://bulma.io/assets/Bulma%20Logo.png' height='30' alt='Bulma'/>
-<img src='https://supabase.com/brand-assets/supabase-logo-wordmark--dark.svg' height='30' alt='Supabase'/>
+<img src='https://supabase.com/brand-assets/supabase-logo-wordmark--light.svg' height='30' alt='Supabase'/>
 </div>
 
 # Nullstack opinionated template
